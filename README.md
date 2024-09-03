@@ -1,7 +1,6 @@
-![Passionate CSE Student | Aspiring Software Engineer | Coding Enthusiast](https://media.licdn.com/dms/image/v2/D4D16AQH5TjHAWJpdRw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710990717691?e=1730937600&v=beta&t=mjLKwYq1Tf9RZeX5jGzsFngk1MRmlvlPzW40-cQg82w)
 ### Hi there 👋, I'm Delowar Husain
 #### Passionate CSE Student | Aspiring Software Engineer | Coding Enthusiast
-
+![Passionate CSE Student | Aspiring Software Engineer | Coding Enthusiast](https://raw.githubusercontent.com/delowarshizar/Doccument/main/DALL%C2%B7E%202024-09-03%2022.12.35%20-%20A%20tech-themed%20banner%20image%20representing%20a%20journey%20in%20computer%20science.%20The%20image%20should%20feature%20interconnected%20nodes%2C%20circuit-like%20patterns%2C%20and%20digit.webp)
 
 👋 Hi there! I'm Delowar Husain, a Computer Science Engineering student with a deep passion for software development and problem-solving. My goal is to become a skilled software engineer, where I can contribute to innovative projects and develop solutions that make a difference.
 
