@@ -23,7 +23,7 @@ Skills: 🚀 Skills Programming Languages:  Python, Java ,C,C++ JavaScript ||  W
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=delowarshizar)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarshizar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarshizar)](https://github.com/delowarshizar/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=delowarshizar&show_icons=true)  
 
