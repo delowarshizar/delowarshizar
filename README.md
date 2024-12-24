@@ -15,7 +15,6 @@
 
 🚀 I’m always open to collaboration and learning from others in the tech community. Feel free to reach out if you want to discuss ideas, work on a project together, or just chat about technology!
 
-Skills: 🚀 Skills Programming Languages:  Python, Java ,C,C++ JavaScript ||  Web Development:  HTML5, CSS, JavaScript, Bootstrap || Databases:  MySQL || Tools & Technologies:  Git & GitHub , Visual Studio Code , Pycharm || Data Structures & Algorithms:  Proficient in problem-solving with data structures and algorithms || Other Skills:  Object-Oriented Programming (OOP).
 
 - 🌱 I’m currently learning Database Management System, Computer Networking 
 - 👯 I’m looking to collaborate on GitHub 
@@ -26,13 +25,18 @@ Skills: 🚀 Skills Programming Languages:  Python, Java ,C,C++ JavaScript ||  W
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-    <a href="https://www.linkedin.com/in/delowarhusain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delowarshusain" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/ImDshizar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="IamDshizar" height="30" width="40" /></a>
-    
-    <a href="https://leetcode.com/u/delowar_shizar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="delowar_shizar" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/delowarhusain/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Delowar Husain" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/ImDshizar" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Im Dshizar" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/delowar_shizar/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - delowar_shizar" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
