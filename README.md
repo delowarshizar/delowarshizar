@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Delowar Husain</h1>
-<h3 align="center">Passionate CSE Student | Aspiring Full Software Engineer | Coding Enthusiast
+<h3 align="center">Passionate CSE Student | Aspiring Full Stack Engineer | Coding Enthusiast
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delowarshizar&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22delowarshizar" /> </p>
