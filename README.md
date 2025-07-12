@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delowar Husain</h1>
 <h3 align="center">Passionate CSE Student | Aspiring Software Engineer | Coding Enthusiast
 </h3>
-<h4 align="center">My Portfolio Link: <a href="https://delowarshizar.github.io/delowarhshizar/" target="_blank">Delowar Husain</a>/</h4>
+<h4 align="center">My Portfolio Link: <a href="https://delowarshizar.github.io/delowarhshizar/" target="_blank">Delowar Husain</a></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delowarshizar&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22delowarshizar" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
