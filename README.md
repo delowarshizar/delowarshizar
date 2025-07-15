@@ -1,14 +1,22 @@
-<h1 align="center">Hi 👋, I'm Delowar Husain</h1>
-<h3 align="center">Passionate CSE Student | Aspiring Software Engineer | Full-Stack Developer in Progress 🚀</h3>
-<h4 align="center">🌐 Portfolio: <a href="https://delowarshizar.github.io/delowarhshizar/" target="_blank">delowarshizar.github.io</a></h4>
+<table>
+<tr>
+<td width="55%">
+  
+<h1 align="left">Hi 👋, I'm Delowar Husain</h1>
+<h3 align="left">🚀 Passionate CSE Student | Future Full-Stack Web Developer | Coding Addict</h3>
+<h4>🌐 Portfolio: <a href="https://delowarshizar.github.io/delowarhshizar/" target="_blank">delowarshizar.github.io</a></h4>
+<p><img src="https://komarev.com/ghpvc/?username=delowarshizar&label=Profile%20views&color=0e75b6&style=flat" alt="delowarshizar" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delowarshizar&label=Profile%20views&color=0e75b6&style=flat" alt="delowarshizar" /> </p>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Nqcmd5d2tmYnhjNGdodGZjYWltZDZ3aDdtaDZ2bzF6M2NxMWdrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IbgaMPs8P7Y4hQe6yh/giphy.gif" width="32"> Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -28,7 +36,7 @@
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdmM3dweTl2OWhxd2F0cjF2MWxlOWJrbWV4NG9ndWFiZnJsNTMzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMR2YEaUQetgZCMbIu/giphy.gif" width="32"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -52,15 +60,13 @@
 
 ---
 
-## 📊 Detailed Analytics
+## 📋 Detailed Analytics
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delowarshizar&theme=github_dark" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delowarshizar&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delowarshizar&theme=github_dark" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delowarshizar&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=delowarshizar&theme=github_dark&utcOffset=6" />
 
@@ -68,7 +74,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 🌐 Let's Connect!
 
 <div align="center">
 
@@ -96,18 +102,17 @@
 
 ---
 
-## 🔍 Current Focus
+## 🧠 Current Focus
 
 ```ts
 interface Developer {
   name: "Delowar Husain";
   location: "Dhaka, Bangladesh";
-  role: "Full-Stack Developer in Progress";
-  availableForInternship: true;
+  role: "Aspiring Full-Stack Developer";
   skills: {
     frontend: ["ReactJS", "TailwindCSS", "HTML", "CSS", "JS"];
     backend: ["Node.js", "Express", "Django"];
     database: ["MongoDB", "MySQL"];
   };
-  currentFocus: ["DSA in Python", "Next.js", "Project Building"];
+  currentFocus: ["Next.js", "Python DSA", "Real Projects"];
 }
