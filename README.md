@@ -6,56 +6,22 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
-<!-- About Section with Cards -->
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0xemNwYW83ODZjNzVmbzVuazNpeXN1ZGlsc2V3NWFjYnVidWJ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vWpgk8ufHggpCtac8l/giphy.gif" width="30"> About Me
-
-<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
-
-```yaml
-name: Md Sohag Ali
-located_in: Uttara, Dhaka, Bangladesh
-current_work: Fornt-End Developer
-education: 
-  - "Computer Science & Engineering at DIU"
-
-fields_of_interests:
-  - "Web Development"
-  - "Full Stack Development"
-  - "MERN Stack Developmnet"
-  - "Fornt-End Development"
-  - "Back-end Developmnet"
-  - "Open Source"
-  
-currently_learning: 
-  - "Next.js 15"
-
-2025_goals:
-  - "Contribute to Open Source Projects"
-  - "Build Amazing Full-Stack Applications"
-  - "Learn Cloud Technologies"
-  - "Share Knowledge with Community"
-```
-
-<br clear="right"/>
-
-
-
 <!-- Tech Stack with animated icons -->
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Nqcmd5d2tmYnhjNGdodGZjYWltZDZ3aDdtaDZ2bzF6M2NxMWdrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IbgaMPs8P7Y4hQe6yh/giphy.gif" width="32"> Tech Stack
 
 <div align="center">
 
 ### 🎨 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,pixso&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,&theme=dark" />
 
 ### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=node.js,express.js,mysql&theme=dark" />
 
 ### 🛠️ **Tools & Technologies**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 ### 📱 **Languages**
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
 
 </div>
 
@@ -71,7 +37,7 @@ currently_learning:
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohag-Ali&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
 
 <!-- Streak stats -->
-<img src="https://streak-stats.demolab.com/?user=delowarshizar&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=Sohag-Ali&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohag-Ali&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
