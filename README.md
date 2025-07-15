@@ -6,18 +6,6 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <div align="center">
-
-<!-- Header with animated background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=%20Sohag%20Ali&textBg=false&animation=blink&fontSize=60&section=header&reversal=false&fontColor=F5F5FF&stroke=5B41BA&descAlign=50&descAlignY=60&rotate=0&fontAlign=50&fontAlignY=52" />
-
-<!-- Animated typing with multiple lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-
-</div>
-
 <!-- About Section with Cards -->
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0xemNwYW83ODZjNzVmbzVuazNpeXN1ZGlsc2V3NWFjYnVidWJ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vWpgk8ufHggpCtac8l/giphy.gif" width="30"> About Me
 
