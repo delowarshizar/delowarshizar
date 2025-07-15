@@ -15,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,&theme=dark" />
 
 ### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=node.js,express.js,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql&theme=dark" />
 
 ### 🛠️ **Tools & Technologies**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
