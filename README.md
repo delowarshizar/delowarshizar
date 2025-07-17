@@ -20,31 +20,32 @@
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Problem Solving
 - 
+
 <h2>🛠 Skills</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; text-align: center;">
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+    </td>
+    <td align="center">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>📱 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&theme=dark" />
+    </td>
+    <td align="center">
+      <h3>🛠️ Tools & Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-  <div>
-    <h3>🎨 Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
-  </div>
-
-  <div>
-    <h3>⚙️ Backend</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb&theme=dark" />
-  </div>
-
-  <div>
-    <h3>📱 Languages</h3>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&theme=dark" />
-  </div>
-
-  <div>
-    <h3>🛠️ Tools & Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" />
-  </div>
-
-</div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
