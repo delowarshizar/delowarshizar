@@ -15,12 +15,7 @@
 
 🚀 I’m always open to collaboration and learning from others in the tech community. Feel free to reach out if you want to discuss ideas, work on a project together, or just chat about technology!
 
-
-- 🌱 I’m currently learning Database Management System, Computer Networking 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Problem Solving
-- 
-
+<hr>
 <h2>🛠 Skills</h2>
 
 <table align="center">
@@ -46,6 +41,7 @@
   </tr>
 </table>
 
+<hr>
 
 ## 📊 GitHub Analytics
 
@@ -55,30 +51,32 @@
 
 </div>
 
-<!-- Working GitHub Streak Stats (Official Vercel deployment) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delowarshizar&theme=nightowl&hide_border=false" alt="GitHub Streak" />
-</p>
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-
+<hr>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+  <!-- Social Media Badges -->
+  <a href="https://www.linkedin.com/in/delowarhusain/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/delowarhusain/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Delowar Husain" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/ImDshizar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Im Dshizar" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/u/delowar_shizar/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - delowar_shizar" height="30" width="40" />
-    </a>
-</p>
+  <a href="https://github.com/delowarshizar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+
+  <a href="https://www.facebook.com/ImDshizar/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
+  </a>
+
+  <a href="mailto:kdelowarhusainraj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/+8801313862541" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
+  </a>
+
