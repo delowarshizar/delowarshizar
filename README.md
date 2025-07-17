@@ -21,25 +21,7 @@
 - 💬 Ask me about Problem Solving 
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/delowarhusain/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Delowar Husain" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/ImDshizar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Im Dshizar" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/u/delowar_shizar/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - delowar_shizar" height="30" width="40" />
-    </a>
-</p>
-
-<div align="center">
+<div display="flex">
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
@@ -57,3 +39,22 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/delowarhusain/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Delowar Husain" height="30" width="40" />
+    </a>
+    <a href="https://www.facebook.com/ImDshizar" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Im Dshizar" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/delowar_shizar/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - delowar_shizar" height="30" width="40" />
+    </a>
+</p>
