@@ -22,6 +22,7 @@
 
 <div display = "flex">
 <div>
+ 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
@@ -30,6 +31,7 @@
 </div>
 
 <div>
+ 
 ### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" />
 
