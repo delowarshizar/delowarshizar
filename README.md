@@ -55,10 +55,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <hr>
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a9b.gif" width="32"> Let's Connect!
   <!-- Social Media Badges -->
   <a href="https://www.linkedin.com/in/delowarhusain/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
