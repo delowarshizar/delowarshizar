@@ -20,21 +20,22 @@
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Problem Solving 
 
-
-<div display="flex">
-
+<div display = "flex">
+<div>
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb&theme=dark" />
+</div>
 
+<div>
 ### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" />
 
 ### 📱 Languages
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&theme=dark" />
-
+</div>
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
