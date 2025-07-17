@@ -51,14 +51,13 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=delowarshizar&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=delowarshizar&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
 
 </div>
-<!-- GitHub Contribution Streak -->
+
+<!-- Working GitHub Streak Stats (Official Vercel deployment) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=delowarshizar&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delowarshizar&theme=nightowl&hide_border=false" alt="GitHub Streak" />
 </p>
 
 
