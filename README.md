@@ -55,9 +55,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <hr> 
-<b>Contact with me</b>
-<br>
-<hr>
+<h2>Contact with me  </h2>
   <!-- Social Media Badges -->
   <a href="https://www.linkedin.com/in/delowarhusain/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
@@ -78,4 +76,4 @@
   <a href="https://wa.me/+8801313862541" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
   </a>
-
+<hr>
