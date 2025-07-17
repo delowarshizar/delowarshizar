@@ -56,7 +56,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=delowarshizar&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
 
 </div>
-
+<!-- GitHub Contribution Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=delowarshizar&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+</p>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarshizar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
