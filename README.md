@@ -22,21 +22,21 @@
   <tr>
     <td align="center">
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
     </td>
     <td align="center">
       <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>📱 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark" />
     </td>
     <td align="center">
       <h3>🛠️ Tools & Technologies</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
     </td>
   </tr>
 </table>
