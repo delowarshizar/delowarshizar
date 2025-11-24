@@ -22,7 +22,7 @@
   <tr>
     <td align="center">
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind, react &theme=dark" />
     </td>
     <td align="center">
       <h3>⚙️ Backend</h3>
