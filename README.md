@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Delowar Husain</h1>
+<h1 align="center">Hi, I'm Delowar Husain</h1>
 <h3 align="center">Passionate CSE Student | Aspiring Software Engineer | Coding Enthusiast
 </h3>
 <h4 align="center">My Portfolio Link: <a href="https://delowarhusain.netlify.app/" target="_blank">Click Here</a></h4>
