@@ -50,8 +50,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delowarshizar&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delowarshizar&show_icons=true&theme=dark)
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=delowarshizar&theme=dark&v=1" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=delowarshizar&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
+
 
 <br />
 
