@@ -47,7 +47,8 @@
 
 
 ## :chart_with_upwards_trend: Current Stats
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=delowarshizar)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delowarshizar&show_icons=true&theme=dark)
+
 
 <br />
 <p align="center">
