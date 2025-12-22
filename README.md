@@ -47,6 +47,7 @@
 
 
 ## :chart_with_upwards_trend: Current Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarshizar&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delowarshizar&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=delowarshizar&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delowarshizar&show_icons=true&theme=dark)
