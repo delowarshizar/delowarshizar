@@ -47,15 +47,13 @@
 
 
 ## :chart_with_upwards_trend: Current Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delowarshizar&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delowarshizar&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=delowarshizar&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delowarshizar&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=delowarshizar&theme=dark&v=1" />
+</p>
 
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.vercel.app?user=delowarshizar&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
 
 
  ## 📊 GitHub Analytics
