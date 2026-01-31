@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
-
+<img src="https://i.ibb.co.com/rGvR6Q5V/Blue-and-White-Modern-Software-Engineer-Linked-In-Banner-5.png" />
  👋 Hi there! I'm Delowar Husain, a Computer Science Engineering student with a deep passion for software development and problem-solving. My goal is to become a skilled software engineer, where I can contribute to innovative projects and develop solutions that make a difference.
 
 💻 I love diving into code, exploring new technologies, and continuously challenging myself to learn and grow. Whether it's developing web applications, working on algorithms, or contributing to open-source projects, I'm always eager to take on new challenges.
