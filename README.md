@@ -1,5 +1,5 @@
-<img src="https://i.ibb.co.com/rGvR6Q5V/Blue-and-White-Modern-Software-Engineer-Linked-In-Banner-5.png" />
-<h1 align="center">My Portfolio Link: <a href="https://delowarhusain.netlify.app/" target="_blank">Click Here</a></h1>
+<img src="https://i.ibb.co.com/nMKF5tKv/Blue-and-White-Modern-Software-Engineer-Linked-In-Banner-6.png" />
+<h2 align="center">My Portfolio Link: <a href="https://delowarhusain.netlify.app/" target="_blank">Click Here</a></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delowarshizar&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22delowarshizar" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
