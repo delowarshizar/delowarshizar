@@ -24,7 +24,7 @@
     </td>
     <td align="center">
       <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=laravel,php,mysql,firebase&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=laravel,php,mysql,firebase,mongodb&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
     </td>
     <td align="center">
       <h3>🛠️ Tools & Technologies</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=docker,postman,git,github&theme=dark" />
     </td>
   </tr>
 </table>
