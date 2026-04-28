@@ -5,11 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delowarshizar&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22delowarshizar" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
- 👋 Hi there! I'm Delowar Husain, a Computer Science Engineering student with a deep passion for software development and problem-solving. My goal is to become a skilled software engineer, where I can contribute to innovative projects and develop solutions that make a difference.
+ 👋 Hi there! I'm Delowar Husain, a Computer Science Engineering student with a deep passion for software development and problem-solving.Currently i am working as a Front End Developer with experience building responsive and scalable web applications using React.js, Tailwind CSS,JavaScript, and modern UI libraries. Skilled in creating reusable components, API integration, responsive design, and improving user experience. Passionate about building clean, user-friendly interfaces and contributing to product-focused teams.
 
 💻 I love diving into code, exploring new technologies, and continuously challenging myself to learn and grow. Whether it's developing web applications, working on algorithms, or contributing to open-source projects, I'm always eager to take on new challenges.
 
-🌱 Currently, I'm focusing on making project. I'm also actively expanding my knowledge in areas like AI, machine learning.
 
 🚀 I’m always open to collaboration and learning from others in the tech community. Feel free to reach out if you want to discuss ideas, work on a project together, or just chat about technology!
 
