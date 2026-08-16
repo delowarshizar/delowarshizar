@@ -14,33 +14,33 @@ I'm a **Computer Science & Engineering graduate** and currently working as a **J
 
 I specialize in building **modern, responsive, and scalable web applications** using **React.js, Java, Spring Boot, JavaScript, Tailwind CSS, PostgreSQL, and MySQL**. I have experience working across both frontend and backend development, including REST API development, database design, API integration, authentication, reusable components, and responsive user interfaces.
 
-💻 I enjoy solving real-world problems through software development and continuously improving my skills in **software engineering, system development, backend architecture, and modern web technologies**.
+I enjoy solving real-world problems through software development and continuously improving my skills in **software engineering, system development, backend architecture, and modern web technologies**.
 
-🚀 I'm always interested in learning new technologies, building meaningful projects, collaborating with other developers, and contributing to innovative software solutions.
+I'm always interested in learning new technologies, building meaningful projects, collaborating with other developers, and contributing to innovative software solutions.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <table align="center">
   <tr>
     <td align="center">
-      <h3>🎨 Frontend</h3>
+      <h3>Frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript&theme=dark" />
     </td>
     <td align="center">
-      <h3>⚙️ Backend</h3>
+      <h3>Backend</h3>
       <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <h3>🗄️ Database</h3>
+      <h3>Database</h3>
       <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
     </td>
     <td align="center">
-      <h3>🛠️ Tools & Technologies</h3>
+      <h3>Tools & Technologies</h3>
       <img src="https://skillicons.dev/icons?i=git,github,docker,figma,netlify,vercel&theme=dark" />
     </td>
   </tr>
