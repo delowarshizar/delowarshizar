@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co.com/nMKF5tKv/Blue-and-White-Modern-Software-Engineer-Linked-In-Banner-6.png" />
 
-<h2 align="center">My Portfolio Link: <a href="https://delowarhusain.netlify.app/" target="_blank">Click Here</a></h2>
+<h2 align="center">My Portfolio Link: <a href="https://delowarhusain.me/" target="_blank">Click Here</a></h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=delowarshizar&label=Profile%20views&color=0e75b6&style=flat" alt="delowarshizar" />
