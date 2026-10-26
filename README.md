@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/nMKF5tKv/Blue-and-White-Modern-Software-Engineer-Linked-In-Banner-6.png" />
+<img src="https://ibb.co.com/39P15Lf9" />
 
 <h2 align="center">My Portfolio Link: <a href="https://delowarhusain.me/" target="_blank">Click Here</a></h2>
 
